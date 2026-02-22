@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Waris Khan
 
-<!--
-**Warisandar/Warisandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Developer | AI Enthusiast | Desktop & Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science Graduate
+- 🐍 Working with Python
+- 🤖 Interested in AI, Machine Learning & NLP
+- 🌍 Building real-world applications
+
+---
+
+## 🛠 Tech Stack
+
+- Python,PyQt5
+- Machine Learning, NLP, AI
+- HTML & CSS JS
+- Git & GitHub
+
+---
+
+## 📈 Current Goals
+
+- Build strong AI-based applications
+- Contribute to Open Source
+- Develop Production-Level Software
+
+---
+
+## 📫 Contact
+  +93 798681129
+- Email: warisandar924@gmail.com
