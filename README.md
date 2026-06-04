@@ -16,8 +16,7 @@
 ## 🛠 Tech Stack
 
 - Python,PyQt5
-- Machine Learning, NLP, AI
-- HTML & CSS JS
+- Machine Learning, NLP, AI, Generative AI, CV
 - Git & GitHub
 
 ---
