@@ -1,6 +1,6 @@
 # Hi 👋 I'm Waris Khan
 
-### 💻 Python Developer | AI Enthusiast | Desktop & Web Developer
+### 💻 Python Developer | AI Enthusiast | App developer
 
 ---
 
